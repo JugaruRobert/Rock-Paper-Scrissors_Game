@@ -1,0 +1,16 @@
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\bin\Debug\Piatra Foarfeca Hartie.exe
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\bin\Debug\Piatra Foarfeca Hartie.pdb
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.csproj.GenerateResource.Cache
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.exe
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.pdb
+D:\c#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.csprojResolveAssemblyReference.cache
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.exe
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.pdb
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\bin\Debug\Piatra Foarfeca Hartie.exe
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\bin\Debug\Piatra Foarfeca Hartie.pdb
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.csprojResolveAssemblyReference.cache
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Aplicatii C#\Piatra Foarfeca Hartie\Piatra Foarfeca Hartie\obj\x86\Debug\Piatra Foarfeca Hartie.csproj.GenerateResource.Cache
